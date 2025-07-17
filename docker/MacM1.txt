@@ -1,0 +1,4 @@
+docker compose -f elasticsearch-docker-8-6-2.yml up
+
+http://localhost:9200
+http://localhost:5601
